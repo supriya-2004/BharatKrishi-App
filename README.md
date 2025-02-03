@@ -1,4 +1,4 @@
-**BharatKrushi**: Empowering Farmers to Sell Their Products Globally
+# BharatKrushi: Empowering Farmers to Sell Their Products Globally
 
 BharatKrishi is a digital platform designed to connect farmers directly with buyers worldwide. Our mission is to provide a seamless and efficient way for farmers to sell their products, promoting sustainability and economic growth. The present version is a prototype, and I intend to develop it into a comprehensive mobile nad Web application shortly. I am currently working on its development.
 
