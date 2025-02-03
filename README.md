@@ -20,7 +20,6 @@ BharatKrishi is a digital platform designed to connect farmers directly with buy
 **TECH STACK INCLUDES**
 
 1.HTML: Structures core features like profiles, contract management, and chat windows.
-
 2.CSS: Handles design.
 3.JavaScript: Enables real-time price negotiation chats and interactive dashboards.
 4.React.js: Manages the state of the application, ensuring smooth transitions between different sections like contract management, payment gateways, and communication systems.
