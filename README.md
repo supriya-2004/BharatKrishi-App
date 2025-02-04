@@ -3,7 +3,7 @@
 BharatKrishi is a digital platform designed to connect farmers directly with buyers worldwide. Our mission is to provide a seamless and efficient way for farmers to sell their products, promoting sustainability and economic growth. The present version is a prototype, and I intend to develop it into a comprehensive mobile nad Web application shortly. I am currently working on its development.
 
 
-**CORE FEATURES INCLUDES**
+## **CORE FEATURES INCLUDES**
 1. User Profiles: Farmers and buyers can create profiles to showcase their products and connect with each other.
 2. Contract Management: Secure and transparent contract management system for farmers and buyers.
 3. Price Negotiation Window: A platform for farmers and buyers to negotiate prices in real-time.
@@ -17,7 +17,7 @@ BharatKrishi is a digital platform designed to connect farmers directly with buy
 11. Dispute Manager: A system to resolve disputes between farmers and buyers in a fair and timely manner.
     
 
-**TECH STACK INCLUDES**
+## **TECH STACK INCLUDES**
 
 1.HTML: Structures core features like profiles, contract management, and chat windows.
 2.CSS: Handles design.
